@@ -1,6 +1,6 @@
 # Todo Notes with Node, Express, Mongo and JQuery
 
-Aplicación Web que te permite crear, obtener y borrar notas. Es un ejemplo de demostración de conexión básica entre un frontend sencillo y un backend heco con node y express, que a su vez se concetan a Mongo Atlas.
+Aplicación Web que te permite crear, obtener y borrar notas. Es un ejemplo de demostración de conexión básica entre un frontend sencillo y un backend hecho con node y express, que a su vez se conectan a Mongo Atlas.
 
 ## Getting Started
 
